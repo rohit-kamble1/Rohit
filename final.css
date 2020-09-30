@@ -1,0 +1,65 @@
+body{
+	background-color:rgba(150,300,192,0.3)
+}
+
+h1 {
+	color: blue;
+	text-align: center;
+	font-size: 80px;
+	font-style: "verdana";
+	outline-style: solid;
+	outline-color: coral;
+	text-shadow: 2px 2px #00ff00;
+}
+
+h2 {
+	color: black;
+	text-align: center;
+	font-size: 40px;
+	font-family: "verdana";
+	outline: 2px dotted green;
+	text-shadow: 2px 2px #ff0000;
+}
+
+h3 {
+	color: green;text-align: left; margin-right : 20px;
+	font-size: 50px;padding-right: 20px;border-image: 2000px;
+	text-decoration-line: underline;
+	text-decoration-style:wavy;margin-bottom: 0px;
+	text-shadow: 2px 2px #0000ff;
+}
+p {
+	color: black; text-align: left;font-size: 20px; margin-left: 200px;margin-bottom: 0px;text-indent: 30px;
+	text-align: justify;
+	text-justify:inter-word;
+}
+
+p1 {
+	color: black; text-align: right;font-size: 20px; margin-top: -20px;padding-top:0%;margin-bottom: 0px;
+}
+
+h4{
+	lighting-color: blue;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 0px;
+	text-decoration-line: underline;
+	text-decoration-style: wavy;
+	margin-top: 10px;
+}
+
+p3{
+	color: black; text-align: left;font-size: 20px;
+}
+
+p4{
+	color: black; text-align: left;font-size: 20px;margin-left: 200px;
+}
+
+p5{
+	color: black; text-align: left;font-size: 20px;margin-left: 250px;
+}
+
+p6{
+	color: black; text-align: left;font-size: 20px;margin-left: 200px;
+}
